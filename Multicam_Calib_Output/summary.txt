@@ -1,0 +1,9 @@
+Total cameras: 5 — [1, 2, 3, 4, 5]
+Total markers: 25
+Markers with 3D: 20
+Overall mean reprojection error (px): 13.0939
+Cam 01: mean=3.3755 px  (n=20)
+Cam 02: mean=3.1068 px  (n=20)
+Cam 03: mean=53.6892 px  (n=16)
+Cam 04: mean=7.4454 px  (n=16)
+Cam 05: mean=4.8421 px  (n=20)
