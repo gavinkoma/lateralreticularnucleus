@@ -1,0 +1,18 @@
+We are going to start with a simple 2D analysis from cameras 4 & 5 (denoted as "camcommerb04" & "camcommerb05" within the metadata column 'camera_label')
+
+we need to develop a way to automatically extract reach attempts from the kinematics of the left/right_mcp marker found in the csv like this: (uploaded)
+
+the position can be centered on the marker: "pellet" (also found in csv file) & being careful about when the pellet is missing or knocked off. Therefore, we only want you to look for non-NaN frames that are relatively constant for x/y pts for some number of frames early in the video. The videos are 1000frames & 250Hz
+
+cam4 is the left side of the rodent while cam5 is the right side. in cam4, we want left_mcp and cam5 we would like right_mcp (respective of view). 
+
+perhaps a way to start is to export a summary png for every .csv file so that we can manually identify a few good reaches to make a 'reach extractor.' we are hoping to use sequences where the MCP moves somewhat ballistically towards the pellet.
+
+for now, can i get python code to load the metadata, load each csv found in 'csv_path' of compiled_metadata.csv, and export into a subfolder a four subplot figure (.png preferred) with full width for time and four rows of images in one column. Time found on X axis. Desire plots below:
+
+First plot: all marker X pts vs. time. 
+second plot: all marker Y pts vs. time. 
+Third plot: MCP (left or right dependent upon camera) speed vs. time. 
+Fourth plot: Direction of movement relative to towards the pellet
+
+
