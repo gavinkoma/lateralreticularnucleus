@@ -1,0 +1,58 @@
+1. Is there a difference in MCP and wrist trajectories with the experimental manipulation? --> yes, kinda 
+	|--> compare to themselves, before and after 
+	|--> are the experimentals the same before? no, variability is there 
+	|--> same before/after experimental manipulation? 
+	|--> maybe time to start looking at other body parts??
+
+2. Frequency of successful reach for experimental/control animals? 
+
+3. we asked a sequence of questions regarding hand flexion first by group
+	|--> then by group and phase
+	|--> then by group phase and rat
+	|--> have questions about rat 5 but want josh to finish lesions first 
+	|
+	|--> data suggests that control animals at baseline grasp more than 
+		experimentals at baseline (90% vs. 66%), 
+		control animals actually did not change and stayed around
+
+4. Do all the trials of experimentals after the ablation look more like all trial failures or all trial successes? 
+	|--> do trajectories of experimental animals look like a good reach?
+
+5. Do the experimentals change? delta graph? do the controls change as well? 
+	|--> can you spatially align these immediately? 
+
+6. do we ever include data from non-dominant hand? 
+	|--> maybe discuss removing any non-dominant hand
+	|--> possible ability mismatch? just bad experimental animals? variability in paw usage? 
+
+
+
+🐀 Rat-Level by Phase
+Control Rats
+Rat	Phase	Flex %
+3	Pre	83.3%
+3	Post	95.0%
+4	Pre	90.0%
+4	Post	88.2%
+Controls remain high pre and post.
+Experimental Rats
+Rat	Phase	Flex %
+2	Pre	66.7%
+2	Post	65.6%
+5	Pre	71.4%
+5	Post	90.5%
+6	Pre	57.1%
+6	Post	40.0%
+
+
+--> if we have to guess, then rat 2 maybe a failed lesion or minimal lesion combatted by learning/compensation
+	rat 5 may have had 0 lesion and may have learned better
+	rat 6 may have had at minimum a partially successful lesion
+
+
+lets look at other markers ?????
+
+
+
+
+**we want a next steps slide to see what to do
